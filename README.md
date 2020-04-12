@@ -1,2 +1,2 @@
-# Algorithm-collision-
-My first algo on vsc 
+# p5.play-boilerplate
+Boiler plate for p5.play
